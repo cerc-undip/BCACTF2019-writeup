@@ -20,3 +20,4 @@
 | [of-course-rachel](./forensic/of-course-rachel) | forensic | 150 |
 | [open-docs](./forensic/open-docs) | forensic | 150 |
 | [study-of-roofs](./forensic/study-of-roofs) | forensic | 150 |
+| [wavey](./forensic/wavey) | forensic | 150 |
