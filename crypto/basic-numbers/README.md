@@ -1,6 +1,6 @@
-# 1+1=window
-**Category:** programming <br>
-**Point:** 75
+# basic-numbers
+**Category:** crypto <br>
+**Point:** 50
 
 > We have a raw flag here, but what do we do with it?
 > 
