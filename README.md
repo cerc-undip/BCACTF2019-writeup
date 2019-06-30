@@ -21,3 +21,4 @@
 | [open-docs](./forensic/open-docs) | forensic | 150 |
 | [study-of-roofs](./forensic/study-of-roofs) | forensic | 150 |
 | [wavey](./forensic/wavey) | forensic | 150 |
+| [corrupt-psd](./forensic/corrupt-psd) | forensic | 200 |
