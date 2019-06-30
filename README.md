@@ -11,6 +11,7 @@
 | Challenge | Category | Point |
 | --- | --- | --- |
 | [basic-numbers](./crypto/basic-numbers) | crypto | 50 |
+| [cracking-the-cipher](./crypto/cracking-the-cipher) | crypto | 50 |
 | [split-the-red-sea](./forensic/split-the-red-sea) | forensic | 100 |
 | [bca-craft](./forensic/bca-craft) | forensic | 125 |
 | [file-head](./forensic/file-head) | forensic | 125 |
