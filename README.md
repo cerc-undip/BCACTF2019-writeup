@@ -24,5 +24,5 @@
 | [1+1=window](./programming/1+1) | programming | 75 |
 | [the-inspector](./web/the-inspector) | web | 50 |
 | [wite-out](./web/wite-out) | web | 50 |
-| [dig-dug](./web/dig-dug) | web | 50 |
+| [dig-dug](./web/dig-dug) | web | 100 |
 | [cookie-clicker](./web/cookie-clicker) | web | 150 |
